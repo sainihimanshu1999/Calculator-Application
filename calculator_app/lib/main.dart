@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: MyHomePage(title: 'Himanshus App'),
+      home: MyHomePage(title: 'Himanshus Calculator'),
     );
   }
 }
